@@ -1,0 +1,15 @@
+*.mod
+*.cmake
+moc_*
+*.moc
+*automoc*
+CMakeCache.txt
+CMakeFiles
+DartConfiguration.tcl
+Makefile
+bin/*
+lib/*
+Testing/
+CATs.*
+CATsWin.*
+test/*
